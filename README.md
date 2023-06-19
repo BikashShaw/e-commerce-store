@@ -27,3 +27,15 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## ⭐️ Resources ⭐️
+
+[Original Code](https://github.com/bobangajicsm/E-Commerce-Store)
+
+[Fake store API](https://fakestoreapi.com/)
+
+[Stripe](https://stripe.com/)
+
+[Prebuilt checkout page](https://stripe.com/docs/checkout/quickstart)
+
+[Stripe Shipping Code](https://stripe.com/docs/payments/checkout/shipping)
